@@ -1,0 +1,33 @@
+{
+  "name": "programcodegenius",
+  "version": "1.0.2",
+  "description": "programcodegenius",
+  "type": "module",
+  "main": "programcodegenius.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacquesdrexlerx740/programcodegenius"
+  },
+  "website": "https://github.com/jacquesdrexlerx740/programcodegenius.git",
+  "keywords": [
+    "programcodegenius"
+  ],
+  "author": "jacquesdrexlerx740",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jacquesdrexlerx740/programcodegenius/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "homepage": "https://github.com/jacquesdrexlerx740/programcodegenius#readme",
+  "dependencies": {
+    "codedevsavvy": "1.0.2",
+    "devscriptcraft": "1.0.2",
+    "codescriptcraftsman": "1.0.2"
+  }
+}
